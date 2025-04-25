@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Prazwal Roka</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&random=false&width=435&lines=Developer;Code+Enthusiast;Innovation+Igniter;Aspiring;Curious+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&random=false&width=435&lines=Developer;Code+Enthusiast;Innovation+Igniter;Curious+Coder" alt="Typing SVG" />
 </div>
 
 <h1 align="center">📊 Some Graphs</h1>
