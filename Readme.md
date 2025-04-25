@@ -1,3 +1,15 @@
+<div align="center">
+<h2>Prazwal Roka</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&random=false&width=435&lines=Developer;Tech+Enthusiast;Innovator;Dreamer" alt="Typing SVG" />
+</div>
+
+<h1 align="center">📊 Some Graphs</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=przwal30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="300" alt="Languages Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prazwal30&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prazwal.roka.chettri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prazwal_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prazwal-roka) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@prazwal1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prazwalroka@gmail.com) 
