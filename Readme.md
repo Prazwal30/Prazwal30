@@ -7,7 +7,7 @@
 <h1 align="center">📊 Some Graphs</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=przwal30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="300" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prazwal30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="300" alt="Languages Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prazwal30&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
 </div>
 
